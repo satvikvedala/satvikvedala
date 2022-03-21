@@ -7,7 +7,7 @@ Personally I am very much interested in Data, Data Cleaning, EDA, Algorithms, DS
 
 Here are some skills I am learning:
 
-- 🌱 I’m currently learning MySQL, Advanced Spradsheets, MySQL workbench
-- 👯 I’m looking to collaborate on Machine learning projects
-- 🤔 I’m looking for help with EDA, feature engineering & feature selection
+- 🌱 Lately I working on MySQL, MySQL workbench, Spreadsheets, Data Visualization
+- 🙌I’m looking to collaborate on Machine learning projects
+- 😃 I’m interseted in EDA, feature engineering, feature selection, Model Building & Algorithms
 
